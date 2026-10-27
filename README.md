@@ -54,8 +54,8 @@ For my final degree project, I developed a **Flutter mobile application** and a 
 
 ### More of my work
 
-My repositories include personal experiments and projects from my degree. **[Explore my projects →](https://github.com/DiogoCoimbra03?tab=repositories)**
+My repositories include personal experiments and projects from my degree. **[Explore my projects →](https://github.com/coimbradiogo?tab=repositories)**
 
 ### Let's connect
 
-Interested in my work? Find me on **[LinkedIn](https://www.linkedin.com/in/diogo-coimbra-8743042bb/)** or reach out at **[coimbra.diogo.04@gmail.com](mailto:coimbra.diogo.04@gmail.com)**.
+Interested in my work? Find me on **[LinkedIn](https://www.linkedin.com/in/diogo-coimbra-silva/)** or reach out at **[coimbra.diogo.04@gmail.com](mailto:coimbra.diogo.04@gmail.com)**.
