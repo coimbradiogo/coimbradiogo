@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diogo-coimbra-8743042bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:coimbra.diogo.04@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=flat-square" alt="Email Diogo" /></a>
+  <a href="https://www.linkedin.com/in/diogo-coimbra-silva/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:coimbra.diogo.04@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=flat-square" alt="Personal Email Diogo" /></a>
   <a href="https://github.com/DiogoCoimbra03?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_projects-181717?style=flat-square&logo=github" alt="Explore my GitHub projects" /></a>
 </p>
 
